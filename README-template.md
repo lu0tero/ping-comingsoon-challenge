@@ -43,11 +43,6 @@ Users should be able to:
   - Any `input` field is empty. The message for this error should say *"[Field Name] cannot be empty"*
   - The email address is not formatted correctly (i.e. a correct email address should have this structure: `name@host.tld`). The message for this error should say *"Looks like this is not an email"*
 
-### Links
-
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
-
 ### Built with
 
 - HTML5
